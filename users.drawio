@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:38:50.125Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pUborz911MZxp75bOKF-" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T10:41:11.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zLTee2G-l8GxNQaXxR79" version="21.6.6" type="github">
   <diagram name="Pagina-1" id="PkGiYq5VtfdqSXgKN5m3">
     <mxGraphModel dx="867" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
             <mxPoint x="270" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iNKSf5CTAuBOQY4kev2J-12" value="Utente Esterno&lt;br&gt;Non Registrato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="iNKSf5CTAuBOQY4kev2J-12" value="Utente Esterno&lt;br&gt;non Registrato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iNKSf5CTAuBOQY4kev2J-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="iNKSf5CTAuBOQY4kev2J-13">
