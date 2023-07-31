@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T10:41:11.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zLTee2G-l8GxNQaXxR79" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T15:36:20.244Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_HmKESn83RFSXlUMjHRT" version="21.6.6" type="github">
   <diagram name="Pagina-1" id="PkGiYq5VtfdqSXgKN5m3">
-    <mxGraphModel dx="867" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
             <mxPoint x="270" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iNKSf5CTAuBOQY4kev2J-12" value="Utente Esterno&lt;br&gt;non Registrato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="iNKSf5CTAuBOQY4kev2J-12" value="Spettatore non Registrato" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iNKSf5CTAuBOQY4kev2J-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="iNKSf5CTAuBOQY4kev2J-13">
@@ -67,6 +67,24 @@
         </mxCell>
         <mxCell id="iNKSf5CTAuBOQY4kev2J-16" value="Responsabile&lt;br&gt;della&lt;br&gt;Programmazione" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNKSf5CTAuBOQY4kev2J-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="440" as="targetPoint" />
+            <mxPoint x="290" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNKSf5CTAuBOQY4kev2J-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="440" as="targetPoint" />
+            <mxPoint x="440" y="520" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iNKSf5CTAuBOQY4kev2J-31" value="Esercente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iNKSf5CTAuBOQY4kev2J-32" value="Spettatore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
