@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T15:38:02.615Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dBYpe0f411sw7oSG0OEi" version="21.6.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-30T15:49:52.831Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MVyN3RWHlGJnW4NaaMH-" version="21.6.9" type="github" pages="6">
   <diagram name="Utenti" id="PkGiYq5VtfdqSXgKN5m3">
-    <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7s-qiYdHXY-v7Th2wd8y" name="Casi d&#39;uso Visitatore">
-    <mxGraphModel dx="954" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,7 +193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="doknaaAPqIdtEWc-2qTH" name="Casi d&#39;uso Spettatore">
-    <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,7 +276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PEMxW5zTwB5jdOTWEnQb" name="Casi d&#39;uso Esercente">
-    <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="610" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -425,7 +425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="18a4ChaceiNKvkjMWiaJ" name="Casi d&#39;uso Amministratore">
-    <mxGraphModel dx="1363" dy="871" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="557" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -582,6 +582,20 @@
         </mxCell>
         <mxCell id="FLk_t8Iiha_oVQ3ksfON-8" value="Elimina multisale esercente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="703" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GuJqBnKCMCfave2NWVIJ-1" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FLk_t8Iiha_oVQ3ksfON-8" target="GuJqBnKCMCfave2NWVIJ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="354" y="739" as="sourcePoint" />
+            <mxPoint x="410" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuJqBnKCMCfave2NWVIJ-2" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GuJqBnKCMCfave2NWVIJ-1">
+          <mxGeometry x="0.4754" y="-2" relative="1" as="geometry">
+            <mxPoint x="-15" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuJqBnKCMCfave2NWVIJ-3" value="Elimina programmazione multisala" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="707" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
