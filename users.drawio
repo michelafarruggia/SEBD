@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T13:20:31.531Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nCR8aK1VRDuMAqsnh0y8" version="21.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-30T13:34:38.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lB6pCYtecNB-Rdcb4QiT" version="21.6.9" type="github" pages="6">
   <diagram name="Utenti" id="PkGiYq5VtfdqSXgKN5m3">
     <mxGraphModel dx="1674" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,13 +94,13 @@
           <mxGeometry x="320" y="200" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4I3WfQ7DMTTl3fPkdtR-4" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="310" width="140" height="70" as="geometry" />
+          <mxGeometry x="320" y="303" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4I3WfQ7DMTTl3fPkdtR-5" value="Visualizza programmazione" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="302" y="415" width="140" height="70" as="geometry" />
+          <mxGeometry x="320" y="421" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4I3WfQ7DMTTl3fPkdtR-6" value="Visualizza multisale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="64" y="450" width="140" height="70" as="geometry" />
+          <mxGeometry x="166" y="515" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="c4I3WfQ7DMTTl3fPkdtR-8" value="Registrazione come spettatore" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="140" height="70" as="geometry" />
@@ -144,7 +144,7 @@
             <mxPoint x="180" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c4I3WfQ7DMTTl3fPkdtR-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.043;exitY=0.657;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4I3WfQ7DMTTl3fPkdtR-5" target="c4I3WfQ7DMTTl3fPkdtR-6">
+        <mxCell id="c4I3WfQ7DMTTl3fPkdtR-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.1;exitY=0.843;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4I3WfQ7DMTTl3fPkdtR-5" target="c4I3WfQ7DMTTl3fPkdtR-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="430" as="sourcePoint" />
             <mxPoint x="320" y="380" as="targetPoint" />
@@ -152,9 +152,61 @@
         </mxCell>
         <mxCell id="c4I3WfQ7DMTTl3fPkdtR-17" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4I3WfQ7DMTTl3fPkdtR-16">
           <mxGeometry x="0.4754" y="-2" relative="1" as="geometry">
-            <mxPoint x="19" y="-3" as="offset" />
+            <mxPoint x="24" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="c4I3WfQ7DMTTl3fPkdtR-18" value="Visualizza valutazioni" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="424" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="c4I3WfQ7DMTTl3fPkdtR-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="c4I3WfQ7DMTTl3fPkdtR-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="147" y="374" as="sourcePoint" />
+            <mxPoint x="254" y="546" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c4I3WfQ7DMTTl3fPkdtR-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="c4I3WfQ7DMTTl3fPkdtR-18" target="c4I3WfQ7DMTTl3fPkdtR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="381" y="547" as="sourcePoint" />
+            <mxPoint x="330" y="583" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c4I3WfQ7DMTTl3fPkdtR-21" value="include" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c4I3WfQ7DMTTl3fPkdtR-20">
+          <mxGeometry x="0.4754" y="-2" relative="1" as="geometry">
+            <mxPoint x="-17" y="-24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="doknaaAPqIdtEWc-2qTH" name="Casi d&#39;uso Spettatore">
+    <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PEMxW5zTwB5jdOTWEnQb" name="Casi d&#39;uso Esercente">
+    <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sZc4cU31cEzh9xNrevGD" name="Casi d&#39;uso Moderatore">
+    <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="18a4ChaceiNKvkjMWiaJ" name="Casi d&#39;uso Amministratore">
+    <mxGraphModel dx="1434" dy="790" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
